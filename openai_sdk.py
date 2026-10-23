@@ -9,7 +9,7 @@ import os
 
 from openai import OpenAI
 
-BASE_URL = "https://aicraftapi.com/v1"
+BASE_URL = "https://aicraftapi.net/v1"
 
 
 def main() -> None:
