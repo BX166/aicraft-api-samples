@@ -3,7 +3,8 @@
 Minimal examples for the AICraft API. It speaks the OpenAI wire format, so an OpenAI client works once you change the base URL and the key.
 
 - Base URL — `https://aicraftapi.net/v1`
-- Key — create one at <https://aicraftapi.net>
+- Base URL in mainland China — `https://aicraftapi.com/v1`
+- Key — create one at <https://aicraftapi.net> (mainland China: <https://aicraftapi.com>)
 
 ## List the models your key can call
 
